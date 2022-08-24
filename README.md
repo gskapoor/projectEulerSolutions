@@ -3,6 +3,7 @@ My own solutions to Project Euler problems.
 
 ## Finished Problems
 - 1 (C)
+- 2 (C)
 
 
 ## TODO Problems
